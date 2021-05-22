@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class BlogPost
+ */
 class BlogPost extends PropertyContainer
 {
     /**
